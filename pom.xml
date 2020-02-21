@@ -12,7 +12,7 @@
 	<groupId>com.aciworldwide</groupId>
 	<artifactId>aciwebapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	
 	<name>aciwebapp</name>
 	<description>ACI Sports Store Web API</description>
         <packaging>war</packaging>
